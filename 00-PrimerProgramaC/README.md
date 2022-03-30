@@ -1,0 +1,1 @@
+El programa 00-PrimerProgramaC imprime el texto "Hola mundo".
